@@ -2,9 +2,9 @@
 
 My name is Kenneth, and I am an Environmental Engineer passionate about sustainability — from field work to hands-on wet-lab work to computational modeling 🌎👨‍🔬💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on using text as data.
+- 🌱 I’m currently learning how the world works.
+- 👯 I’m looking to collaborate on all things sustainability.
 - ⚡ Fun fact: I witnessed a wild platypus chilling on a river bank.
 
 <!--
