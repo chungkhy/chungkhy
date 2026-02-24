@@ -5,7 +5,7 @@ My name is Kenneth, and I am an Environmental Engineer passionate about decision
 - 🔭 I’m currently working on using text as data.
 - 🌱 I’m currently learning how the world works.
 - 👯 I’m looking to collaborate on all things sustainability.
-- ⚡ Fun fact: I witnessed a wild platypus chilling on a river bank.
+- ⚡ Fun fact: I witnessed a wild platypus chilling on a river bank.🦫🦦🦆 (There is still currently no platypus emoji)
 
 <!--
 **chungkhy/chungkhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
