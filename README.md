@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Kenneth, and I am an Environmental Engineer passionate about sustainability — from field work to hands-on wet-lab work to computational modeling 🌎👨‍🔬💻
+My name is Kenneth, and I am an Environmental Engineer passionate about decision science, AI, and sustainability — from field work to hands-on wet-lab work to computational modeling 🌎👨‍🔬💻
 
 - 🔭 I’m currently working on using text as data.
 - 🌱 I’m currently learning how the world works.
