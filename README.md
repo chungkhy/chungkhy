@@ -4,7 +4,7 @@ My name is Kenneth, and I am an Environmental Engineer passionate about decision
 
 - 🔭 I’m currently working on using text as data.
 - 🌱 I’m currently learning how the world works.
-- 👯 I’m looking to collaborate on all things sustainability.
+- 👯 I’m looking to collaborate on all things engineering.
 - ⚡ Fun fact: I witnessed a wild platypus chilling on a river bank.🦫🦦🦆 (There is still currently no platypus emoji)
 
 <!--
